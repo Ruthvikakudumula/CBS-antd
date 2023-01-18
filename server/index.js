@@ -76,7 +76,7 @@ app.post('/signIn', (req, res) => {
 
 app.get('/user', (req, res) => {
   res.json({
-    name: 'Anji',
+    name: 'Ruthvika',
   });
 });
 
